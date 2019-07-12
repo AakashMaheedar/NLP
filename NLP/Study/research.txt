@@ -1,0 +1,8 @@
+ 1   You find a product on Facebook’s Messenger and for the sake of consistency, let’s say it’s the same bottle of Tropicana. You only ever see the presentation layer and send the bot a message that is picked up by the backend saying you want some Tropicana.
+  2  Using Natural Language Processing (what happens when computers read language. NLP processes turn text into structured data), the machine converts this plain text request into codified commands for itself.
+  3  Now the chatbot throw this data into a decision engine, since in the bots mind it has certain criteria to meet to exit the conversational loop, notably, the quantity of Tropicana you want.
+ 4   Using Natural Language Generation (what happens when computers write language. NLG processes turn structured data into text), much like you did with your mother the bot asks you how much of said Tropicana you wanted.
+ 5   This array of responses goes back into the messaging backend and is presented to you in the form of a question. You tell the bot you want 1 litre and we go back through NLP into the decision engine.
+ 6   The bot now analyzes pre-fed data about the product, stores, their locations and their proximity to your location. It identifies the closest store that has this product in stock and tells you what it costs.
+ 7   It then directs you to a payment portal and after it receives confirmation from gateway, it places your order for you, and voila in one to two business days, you have 1 litre of Tropicana 100% Orange Juice.
+

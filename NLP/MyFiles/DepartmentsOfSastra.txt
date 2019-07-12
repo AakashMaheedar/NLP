@@ -1,0 +1,5 @@
+School of mechanical Engineering - SOME
+School of Computing -SOC
+School of Electical and Electronics -SEE
+School of Civil Engineering - SOCE
+School of BioTechnology - SOBT
